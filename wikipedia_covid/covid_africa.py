@@ -56,7 +56,7 @@ def scrapycovid():
     
     data = pd.DataFrame(covid)
         
-    data.to_csv('covid.csv')
+    data.to_csv('covid_data.csv')
     
     return data.head()
 
