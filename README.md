@@ -12,11 +12,11 @@ The table looks as follow:
 | Tunisia       |   222,504        | 33,369                 |   181,627  |  7,508  |	[1] |
 
 Extracted the table from Wikipedia using **Beautiful Soup** to obtain the table for analysis.
-Analysis and visualizations include:
-* Countries with the most positive cases.⋅⋅
-* Countries with the least positive cases.⋅⋅
-* Countries with the highest recovery rate.⋅⋅
-* Countries with the least recovery rate.⋅⋅
-* Countries with the highest death rate.⋅⋅
-* Countries with the lowest death rate.⋅⋅
+Analysis and visualizations include Countries with the:
+* positive cases.
+* least positive cases.
+* highest recovery rate.
+* least recovery rate.
+* highest death rate.
+* lowest death rate.
 
