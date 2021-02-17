@@ -13,10 +13,10 @@ The table looks as follow:
 
 Extracted the table from Wikipedia using **Beautiful Soup** to obtain the table for analysis.
 Analysis and visualizations include:
-......* Countries with the most positive cases
-......* Countries with the least positive cases
-......* Countries with the highest recovery rate
-......* Countries with the least recovery rate
-......* Countries with the highest death rate
-......* Countries with the lowest death rate
+..* Countries with the most positive cases
+..* Countries with the least positive cases
+..* Countries with the highest recovery rate
+..* Countries with the least recovery rate
+..* Countries with the highest death rate
+..* Countries with the lowest death rate
 
